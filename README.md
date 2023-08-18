@@ -20,6 +20,7 @@ Running the Script: Open a terminal/command prompt and navigate to the directory
 
 Copy code
 python script_name.py
+
 Data Loading: When prompted, enter the path to your data file (CSV or Excel).
 
 Data Preprocessing: The script will preprocess the loaded data by handling missing values, encoding categorical features, and scaling numerical features.
